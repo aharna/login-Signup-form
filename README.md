@@ -1,2 +1,2 @@
 # login-Signup-form
-creating login/signup form design using HTML &amp; CSS
+creating a basic login/signup form design using HTML & CSS
